@@ -1,0 +1,33 @@
+body {
+  background-color: #111111;
+  margin: 0;
+  padding: 0;
+  color: rgb(17, 17, 17);
+}
+
+.logo
+{
+  left: 15;
+  font-size: 35px;
+  position: absolute;
+  top: 45;
+  color: rgb(255, 255, 255);
+}
+.milk
+{
+  font-size: 35px;
+  position: absolute;
+  top: 45;
+  left: 45%;
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: none;
+  background-color: #131313;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+.milk:hover
+{
+  color: #141414;
+  background-color: rgb(255, 255, 255);
+}
